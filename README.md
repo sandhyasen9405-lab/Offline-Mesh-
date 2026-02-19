@@ -2,7 +2,7 @@
  - Decentralized Offline Communication System
 
  Overview
--OfflineMesh is a conceptual decentralized communication system designed to enable messaging, file sharing, and image transfer without internet access.
+-OfflineMesh is a conceptual decentralized communication system designed to enable messaging, file sharing, and image transfer without any internet access.
 
 The system uses a mesh-based architecture where devices act as nodes that forward data between each other.
 
